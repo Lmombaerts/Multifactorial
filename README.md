@@ -1,7 +1,6 @@
 # Multifactorial
-Code associated with the publication "A multifactorial evaluation framework for gene regulatory network reconstruction". 2019
 
-This folder contains the code that has been used to estimate the performance of each network inference algorithm for the paper "A multifactorial evaluation framework for gene regulatory network reconstruction".
+This folder contains the code that has been used to estimate the performance of each network inference algorithm for the publication "A multifactorial evaluation framework for gene regulatory network reconstruction", 2019.
 
 To rerun the analysis, please run “main_Inference_Millar.m” for the rhythmic model and "run_Inference_DREAM_wDummy.m" for the DREAM competition models. 
 
